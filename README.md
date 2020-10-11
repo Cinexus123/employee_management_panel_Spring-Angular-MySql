@@ -26,7 +26,9 @@ The application consists of:
   
 ![](angular/fotos/usuniecie_pracownika_z_listy.PNG)
 
-
+<b>Database screen information:
+  
+![](angular/fotos/usuniecie_mysql_workbench.PNG)
 
 
 
