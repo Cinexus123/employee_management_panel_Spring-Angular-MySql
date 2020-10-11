@@ -28,7 +28,7 @@ The application consists of:
 
 <b>Database screen information:
   
-![](angular/fotos/usuniecie_mysql_workbench.PNG)
+![](angular/fotos/mysql_workbench.PNG)
 
 
 
